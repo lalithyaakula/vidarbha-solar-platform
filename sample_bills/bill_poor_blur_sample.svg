@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#E5E7EB" />
+  <text x="150" y="95" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#9CA3AF">Low-resolution / Blurry Bill Photo</text>
+  <text x="150" y="120" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#9CA3AF">(Under 12 KB test file)</text>
+</svg>
